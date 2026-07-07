@@ -8,6 +8,7 @@ und das Projekt lieferte eine solide technische Grundlage für die zukünftige M
 ![DSSG Berlin Certificate](https://raw.githubusercontent.com/dhananjayjm/dssg-berlin-awo-project/main/dssg_cer_img.png)
 
 The Linkedin Post
+
 https://www.linkedin.com/posts/lorenzgruenewaldschukalla_dataforgood-wohlfahrtspflege-datennutzen-activity-7444642852720123904-Pd4G?utm_source=share&utm_medium=member_desktop&rcm=ACoAADPWpqwBt-eXNGTF-_b9DD5bvRXAutK84tQ
 
 ![Volunteers' Team](https://github.com/dhananjayjm/dssg-berlin-awo-project/blob/main/dssg_vol_pic.jpeg)
